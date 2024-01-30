@@ -9,7 +9,7 @@ const Card1 = () => {
         <p className=' lg:text-[#614C42] text-[#DADADA] ml-[30px] font-header font-bold w-[384px] leading-normal lg:text-[55px] text-[35px] mt-[23px] lg:mt-[2px] mr-[-70px] lg:pt-[205px]'>Iz diskoteke v restavracijo </p>
   </div>
 
-  <div className='flex flex-col justify-end lg:ml-[790px] ml-[29px] 2xl:ml-[1800px] '>
+  <div className='flex flex-col justify-end lg:ml-[790px] ml-[29px] '>
       <p className='font-body font-normal lg:text-[#9F7E6B] text-[#DADADA] lg:w-[517px] text-[20px] mt-[15px] w-[295px]'>Naša zgodba sega daleč nazaj, ko smo bili srce nočnega življenja kot priljubljen nočni klub. 
       </p>
       <p className='font-body font-normal lg:text-[#9F7E6B] text-[#DADADA] lg:w-[517px] text-[20px] mt-[25px] w-[295px]'>Sedaj že 25 leto ustvarjamo gurmanske užitke, kjer se srečujejo okusi preteklosti in sedanjosti.
